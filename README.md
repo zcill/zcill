@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-- 📱: PM & iOS Developer
-- 🥤: 嘬奶茶最积极分子
-- 🤧: Practicing 修炼中...
+- 📱 PM & iOS Developer
+- 🥤 嘬奶茶最积极分子
+- 🤧 Practicing 修炼中...
 
 <!--
 **zcill/zcill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
